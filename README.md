@@ -1,1 +1,1 @@
-Things are pretty hard huh
+I am practicing my git command line tools because I never actually practiced this and I recently started internship. 
